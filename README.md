@@ -62,7 +62,7 @@ This repository contains the complete submission for the **WordPress Developer (
 ---
 
 **Demo Video:**  
-[Link to Loom/YouTube video will be added here]
+[https://www.loom.com/share/ddb28366e05040bb814a281643676727]
 
 ---
 
