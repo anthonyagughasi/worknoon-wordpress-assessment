@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Worknoon",
+  "url": "https://worknoon.com",
+  "logo": "https://worknoon.com/logo.png",
+  "description": "Flexible hybrid workspace platform connecting teams with coworking spaces, private offices, and meeting rooms in Nigeria, UK, and USA.",
+  "foundingLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Atlanta",
+      "addressRegion": "GA",
+      "addressCountry": "US"
+    }
+  },
+  "sameAs": [
+    "https://linkedin.com/company/worknoonhq",
+    "https://instagram.com/worknoon",
+    "https://facebook.com/worknooncom"
+  ]
+}
